@@ -12,7 +12,7 @@ unset GIT_DIR
 
 # config
 POSTGRESQL_VERSION="9.5.2"
-S3_BUCKET="woodhull-buildpack-postgresql"
+S3_BUCKET="ldc-heroku-build-packs"
 
 # parse and derive params
 BUILD_DIR=$1
